@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "nishok@gmail.com",
+      "password": "12345"
+    },
+    {
+      "email": "aa@gmail.com",
+      "password": "13r6121",
+      "id": 2
+    },
+    {
+      "email": "ni@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "email": "pk@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "email": "pk@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "email": "karupan@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "pk@g.com",
+      "password": "852",
+      "id": 7
+    },
+    {
+      "email": "hy5yhytuht@gmail.com",
+      "password": "poiuytrewq",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

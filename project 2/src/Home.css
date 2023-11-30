@@ -1,0 +1,163 @@
+.outer {
+    width: 100vw;
+    height: 180vh;
+    background-color: rgb(11, 11, 11);
+    color: white;
+    overflow: scroll;
+}
+
+.div4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+.div5 {
+    background: #abbaab;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin-top: 170px;
+    height: 120vh;
+    width: 100vw;
+    color: black;
+    margin-top: 100px;
+}
+
+.div6 {
+    height: 9vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    margin-top: 100px;
+}
+
+.div7 {
+    height: 76vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+
+}
+.t{
+    margin-top:2rem;
+}
+.t>span{
+    font-size: 1rem;
+    margin-bottom: 10%;
+}
+
+.div8 {
+    border-radius: 30px;
+    height: 14cm;
+    width: 19cm;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.div9 {
+    border-radius: 10px;
+    height: 5cm;
+    width: 7cm;
+    background-image: url("https://im.indiatimes.in/content/2023/Sep/IMG_9648_650ffa1f1f100.JPG");
+    background-size: cover;
+}
+.div9:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.div10:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.div11:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.div12:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.div13:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.div14:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.div10 {
+    border-radius: 10px;
+    height: 5cm;
+    width: 7cm;
+    background-image: url("https://cdn.togetherv.com/birthday-party-premium-decor-main_1655371005.webp");
+    background-size: cover;
+}
+
+.div11 {
+    border-radius: 10px;
+    height: 5cm;
+    width: 7cm;
+    background-image: url("https://images.unsplash.com/photo-1459749411175-04bf5292ceea?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29uY2VydHxlbnwwfHwwfHx8MA%3D%3D");
+    background-size: cover;
+}
+
+.div12 {
+    border-radius: 10px;
+    height: 5cm;
+    width: 7cm;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2PpyUk0SFsS8-u_4sH_FAfP65BuZrqQkOA&usqp=CAU");
+    background-size: cover;
+
+    background-repeat: no-repeat;
+}
+
+.div13 {
+    border-radius: 10px;
+    height: 5cm;
+    width: 7cm;
+    background-image: url("https://anilevents.in/wp-content/uploads/2020/05/IMG-20180129-WA0034-e1588786543909.jpg") ;
+    background-size: cover;
+}
+
+.div14 {
+    border-radius: 10px;
+    height: 5cm;
+    width: 7cm;
+    background-image: url("https://www.bambooevents.co.in/images/puberty-function.webp");
+    background-size: cover;
+}
+
+table {
+    width: 100%;
+    /* Set the width of the table */
+}
+
+
+
+.aa {
+    margin-top: 20px;
+    background-color: transparent;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+}
+
+
+
+
+
+
+
+
